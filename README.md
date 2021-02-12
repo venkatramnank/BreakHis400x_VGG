@@ -10,8 +10,11 @@ The dataset is from 'https://www.kaggle.com/forderation/breakhis-400x'
 
 ## Language/Tools
 -Python 3.x
+
 -Tensorflow 
+
 -Keras
+
 -Keract
 
 ## Results
