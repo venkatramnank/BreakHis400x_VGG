@@ -34,3 +34,5 @@ The Plot of loss vs number of epochs
 ## Initiative
 This project comes under the initiative to delve into usage of Deep learning in Medical Imaging field.
 
+## Contact
+For any doubt or contribution please contact venkatramnank@gmail.com
