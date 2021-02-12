@@ -10,3 +10,7 @@ The dataset is from 'https://www.kaggle.com/forderation/breakhis-400x'
 
 ## Results
 Accuracy obtained : 92 % on validation data
+
+The below image shows the visualization of one of the CNN layers of a single image using keract activations.
+
+<img src="https://github.com/venkatramnank/BreakHis400x_VGG/blob/main/Pics/Visualizations.png" height="250" width="250">
