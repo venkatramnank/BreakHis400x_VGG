@@ -15,7 +15,9 @@ The below image shows the visualization of one of the CNN layers of a single ima
 <img src="https://github.com/venkatramnank/BreakHis400x_VGG/blob/main/Pics/Visualizations.png">
 
 The Plot of accuracy vs number of epochs
+
 <img src="https://github.com/venkatramnank/BreakHis400x_VGG/blob/main/Pics/epoch_accuracy.png">
 
 The Plot of loss vs number of epochs
+
 <img src="https://github.com/venkatramnank/BreakHis400x_VGG/blob/main/Pics/epoch_loss.png">
