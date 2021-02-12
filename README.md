@@ -1,4 +1,4 @@
-# BreakHis400x_VGG
+# Breast Cancer Images(BreakHis400x) VGG Classification
 
 ## Aim
 This project contains the code for VGG 16 pre-trained model to classify Breast cancer images.
