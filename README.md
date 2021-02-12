@@ -8,6 +8,12 @@ The code can be found as a .ipynb file at 'https://drive.google.com/file/d/1aA6Q
 
 The dataset is from 'https://www.kaggle.com/forderation/breakhis-400x'
 
+## Language/Tools
+-Python 3.x
+-Tensorflow 
+-Keras
+-Keract
+
 ## Results
 The accuracy obtained: 92 % on validation data
 
@@ -21,3 +27,7 @@ The Plot of accuracy vs number of epochs
 The Plot of loss vs number of epochs
 
 <img src="https://github.com/venkatramnank/BreakHis400x_VGG/blob/main/Pics/epoch_loss.png">
+
+## Initiative
+This project comes under the initiative to delve into usage of Deep learning in Medical Imaging field.
+
